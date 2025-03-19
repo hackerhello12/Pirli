@@ -1,8 +1,8 @@
 [
   {
-    "server": "194.113.106.151",
-    "server_port": 314,
-    "password": "2ba75392ee300559",
-    "method": "AES-256-CFB"
+    "server": "103.88.242.136",
+    "server_port": 1080,
+    "password": "fqE-vnNOsB9YLyG8q1v4Tw",
+    "method": "chacha20-ietf-poly1305"
   }
 ]
